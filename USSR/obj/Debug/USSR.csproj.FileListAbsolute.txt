@@ -1,0 +1,9 @@
+C:\Users\Owl\source\repos\USSR\bin\Debug\USSR.exe.config
+C:\Users\Owl\source\repos\USSR\bin\Debug\USSR.exe
+C:\Users\Owl\source\repos\USSR\bin\Debug\USSR.pdb
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.csprojAssemblyReference.cache
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.Form1.resources
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.Properties.Resources.resources
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.csproj.GenerateResource.cache
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.exe
+C:\Users\Owl\source\repos\USSR\obj\Debug\USSR.pdb
